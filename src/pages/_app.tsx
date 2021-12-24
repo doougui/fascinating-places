@@ -8,14 +8,14 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>React Avaçado - Boilerplate</title>
+        <title>My Trips</title>
         <link rel="shortcut icon" href="img/icon-512.png" />
         <link rel="apple-touch-icon" href="img/icon-512.png" />
         <link rel="manifest" href="/manifest.json" />
         <meta name="theme-color" content="#06092b" />
         <meta
           name="description"
-          content="A simple project starter to work with TypeScript, React, Next.js and Styled Components"
+          content="A simple project to show my favorite spots in the world"
         />
       </Head>
       <GlobalStyles />
