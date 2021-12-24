@@ -17,10 +17,12 @@
     ]
   },
   "dependencies": {
+    "leaflet": "^1.7.1",
     "next": "12.0.7",
     "next-pwa": "^5.4.4",
     "react": "17.0.2",
     "react-dom": "17.0.2",
+    "react-leaflet": "^3.2.2",
     "styled-components": "^5.3.3"
   },
   "devDependencies": {
@@ -28,6 +30,7 @@
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
     "@types/jest": "^27.0.3",
+    "@types/leaflet": "^1.7.7",
     "@types/react": "^17.0.37",
     "@types/styled-components": "^5.1.19",
     "@typescript-eslint/eslint-plugin": "^5.8.0",
