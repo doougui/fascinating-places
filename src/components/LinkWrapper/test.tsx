@@ -9,7 +9,5 @@ describe('<LinkWrapper />', () => {
 
     expect(children).toBeInTheDocument()
     expect(children).toHaveAttribute('href', '/my-link')
-
-    screen.logTestingPlaygroundURL()
   })
 })
