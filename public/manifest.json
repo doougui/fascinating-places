@@ -1,6 +1,6 @@
 {
-  "name": "My Trips",
-  "short_name": "My Trips",
+  "name": "Fascinating Places",
+  "short_name": "Fascinating Places",
   "icons": [
     {
       "src": "/img/icon-192.png",
@@ -14,7 +14,7 @@
     }
   ],
   "background_color": "#06092B",
-  "description": "A simple project to show my favorite spots in the world",
+  "description": "A simple project to show the most riveting places in the entire world.",
   "display": "fullscreen",
   "start_url": "/",
   "theme_color": "#06092B"
