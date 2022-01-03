@@ -2,7 +2,7 @@ export default {
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://fascinating-places.vercel.app/',
+    url: 'https://fascinating-places.douglasgoulart.com',
     site_name: 'Crazy Places'
   },
   twitter: {

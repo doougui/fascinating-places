@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://fascinating-places.douglasgoulart.com/
+
+# Sitemaps
+Sitemap: https://fascinating-places.douglasgoulart.com/sitemap.xml

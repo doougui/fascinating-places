@@ -12,15 +12,15 @@ export default function HomeTemplate({ places }: MapProps) {
       <NextSeo
         title="Fascinating Places"
         description="A simple project to show the most riveting places in the entire world."
-        canonical="https://fascinating-places.vercel.app/"
+        canonical="https://fascinating-places.douglasgoulart.com"
         openGraph={{
-          url: 'https://fascinating-places.vercel.app/',
+          url: 'https://fascinating-places.douglasgoulart.com',
           title: 'Fascinating Places',
           description:
             'A simple project to show the most riveting places in the entire world.',
           images: [
             {
-              url: 'https://fascinating-places.vercel.app/img/cover.png',
+              url: 'https://fascinating-places.douglasgoulart.com/img/cover.png',
               width: 1280,
               height: 720,
               alt: 'Fascinating Places'
