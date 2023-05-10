@@ -1,5 +1,6 @@
 {
-  "name": "boilerplate",
+  "name": "fascinating-places",
+  "description": "A project to show the most riveting places in the entire world.",
   "private": true,
   "scripts": {
     "dev": "next dev",
