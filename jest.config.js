@@ -12,9 +12,6 @@ const customJestConfig = {
   // if using TypeScript with a baseUrl set to the root directory then you need the below for alias' to work
   testEnvironment: 'jest-environment-jsdom',
   testPathIgnorePatterns: ['/node_modules/', '/.next/'],
-  transformIgnorePatterns: [
-    '/node_modules/(?!(react-leaflet/lib|@react-leaflet/core/lib))'
-  ],
   collectCoverage: true,
   collectCoverageFrom: [
     'src/**/*.ts(x)?',
