@@ -2781,6 +2781,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@types/nprogress@npm:^0.2.0":
+  version: 0.2.0
+  resolution: "@types/nprogress@npm:0.2.0"
+  checksum: 561384775008ae58111f038f8f9468b3de8987cd753feef9bf6d07af0e1343390d492a078bb08a7b53ac7370208e31e06ac069cb852c435d49f5fe218e9769c4
+  languageName: node
+  linkType: hard
+
 "@types/parse-json@npm:^4.0.0":
   version: 4.0.0
   resolution: "@types/parse-json@npm:4.0.0"
@@ -5706,7 +5713,7 @@ __metadata:
     next-pwa: ^5.4.4
     next-seo: ^4.28.1
     next-sitemap: ^1.6.203
-    nextjs-progressbar: ^0.0.13
+    nextjs-progressbar: ^0.0.16
     prettier: 2.5.1
     react: latest
     react-dom: latest
@@ -8947,16 +8954,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nextjs-progressbar@npm:^0.0.13":
-  version: 0.0.13
-  resolution: "nextjs-progressbar@npm:0.0.13"
+"nextjs-progressbar@npm:^0.0.16":
+  version: 0.0.16
+  resolution: "nextjs-progressbar@npm:0.0.16"
   dependencies:
+    "@types/nprogress": ^0.2.0
     nprogress: ^0.2.0
-    prop-types: ^15.7.2
+    prop-types: ^15.8.1
   peerDependencies:
-    next: ">= 6.0.0 <=12.x.x"
-    react: ">= 16.0.0 <= 17.x.x"
-  checksum: 0e055b8e1000c8b8bbf8d0c278a268837ece478f87d193024a9510a7471ea149b2da69edafaeca59111f6f9c8a34dd2e41d203b9b802a2f7d5c4ca3dae1db4a0
+    next: ">= 6.0.0"
+    react: ">= 16.0.0"
+  checksum: b75f7bd1f336765aab203613e028ba5cb7e89590add46e4df435cc868bad042c2c5c6fe8c2cf1b127b1cae66eaae6e10d061b2908d7d4b6a9dcd79ad4e41bbcd
   languageName: node
   linkType: hard
 
